@@ -1,0 +1,12 @@
+2020-10-29 19:55:57,913 [com.guoshi.log.LogTest]-[TRACE] hello trace
+2020-10-29 19:55:57,914 [com.guoshi.log.LogTest]-[DEBUG] hello debug
+2020-10-29 19:55:57,914 [com.guoshi.log.LogTest]-[INFO] hello info
+2020-10-29 19:55:57,914 [com.guoshi.log.LogTest]-[WARN] hello warn
+2020-10-29 19:55:57,914 [com.guoshi.log.LogTest]-[ERROR] hello error
+2020-10-29 19:55:57,915 [com.guoshi.log.LogTest]-[FATAL] hello fatal
+2020-10-29 20:00:25,012 [com.guoshi.log.LogTest]-[TRACE] hello trace
+2020-10-29 20:00:25,013 [com.guoshi.log.LogTest]-[DEBUG] hello debug
+2020-10-29 20:00:25,013 [com.guoshi.log.LogTest]-[INFO] hello info
+2020-10-29 20:00:25,013 [com.guoshi.log.LogTest]-[WARN] hello warn
+2020-10-29 20:00:25,013 [com.guoshi.log.LogTest]-[ERROR] hello error
+2020-10-29 20:00:25,014 [com.guoshi.log.LogTest]-[FATAL] hello fatal

@@ -1,0 +1,7 @@
+com/guoshi/openapi/web/master/pojo/Customer.class
+com/guoshi/openapi/web/master/service/impl/CustomerServiceImpl.class
+com/guoshi/openapi/web/master/bean/TableData.class
+com/guoshi/openapi/web/master/controller/CustomerController.class
+com/guoshi/openapi/web/master/mapper/CustomerMapper.class
+com/guoshi/openapi/web/master/service/CustomerService.class
+com/guoshi/openapi/web/master/bean/AjaxMessage.class
